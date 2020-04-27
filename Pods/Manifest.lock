@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.1.0)
+  - Macaw (0.9.6):
+    - SWXMLHash
+  - ReachabilitySwift (5.0.0)
+  - SwiftSVG (2.3.2)
+  - SWXMLHash (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Macaw
+  - ReachabilitySwift
+  - SwiftSVG
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Macaw
+    - ReachabilitySwift
+    - SwiftSVG
+    - SWXMLHash
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  Macaw: 8306d775625ba003beee4186b9533fd7cf284024
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SwiftSVG: ca7f64e403b8ea7ea8eba8c823b83ba4a059834c
+  SWXMLHash: 9cc0c2e4807926c74377724aa8722ee5707a0485
+
+PODFILE CHECKSUM: f9abe920ea5a947a80c0be1089b7aea465398e62
+
+COCOAPODS: 1.9.1
